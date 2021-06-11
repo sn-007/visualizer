@@ -1,1 +1,4 @@
-A light weight react app for visualising graph as well as sorting algorithms like, Dijkstra, heap-sort, binary search tree, etc....
+# A light weight react app for  visualising 
+* Graphs Algorithms
+* Sorting Algorithms
+* Binary Search
